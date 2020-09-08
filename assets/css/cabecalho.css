@@ -1,0 +1,11 @@
+@media (max-width: 1000px) 
+{
+    .cabecalho nav{
+        height: auto;
+    }
+}
+@media (min-width: 1000px){
+    .cabecalho nav{
+        height: 55px;
+    }
+}

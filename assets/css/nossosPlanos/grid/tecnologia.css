@@ -1,0 +1,21 @@
+.fibra__tecnologia__texto {
+    text-align: center;
+    text-align: center;
+    font-family: monospace;
+    font-size: 15px;
+    
+}
+.fibra__tecnologia {
+    grid-column: 3/3;
+    grid-row: 2/2;
+}
+.light__tecnologia__texto{
+    text-align: center;
+    font-family: monospace;
+    font-size: 15px;    
+}
+.ac__tecnologia{
+    text-align: center;
+    font-family: monospace;
+    font-size: 15px;
+}

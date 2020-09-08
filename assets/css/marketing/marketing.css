@@ -1,0 +1,8 @@
+.marketing {
+    display: grid;
+    grid-template-columns: 40% 60%;
+    grid-template-areas: "post" "mapa";
+
+    height: calc(100vh - 75px);
+    padding-top: 2rem;
+}

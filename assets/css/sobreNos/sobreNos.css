@@ -1,0 +1,11 @@
+.bg-binario{
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+}
+.bg-filtro {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background: rgba(000, 000, 000, .75);
+}

@@ -1,0 +1,15 @@
+.quemSomos__principal {
+    text-align: center;
+    padding-top: 3rem;
+}
+.quemSomos__principal strong {
+    color: #F2C335;
+}
+.quemSomos__titulo {
+    font-size: 2rem;
+    color: #F2C335;
+}
+.quemSomos__texto {
+    font-size: 22px;
+    font-weight: lighter;
+}

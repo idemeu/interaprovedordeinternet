@@ -1,0 +1,13 @@
+.marketing__localizacao {
+    border: 1px solid #0B6CDB;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 600px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+.marketing__localizacao:hover{
+    border: 1px solid black;
+    transition: .3s;
+}

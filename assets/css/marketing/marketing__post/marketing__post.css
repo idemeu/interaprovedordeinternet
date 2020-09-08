@@ -1,0 +1,7 @@
+.marketing__post {
+    grid-area: post;
+    width: 100%;
+    border-right: 2px solid gray;
+    padding: 1rem;
+    margin-left: 5%;
+}

@@ -1,0 +1,13 @@
+.nossosPlanos{
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    height: auto;
+    background: #faf5f5;
+}
+.nossosPlanos__titulo {
+    text-align: center;
+    font-family: monospace;
+    font-weight: bold;
+    padding: 50px 0 ;
+}

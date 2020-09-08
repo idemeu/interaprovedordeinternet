@@ -1,0 +1,10 @@
+.contatos__titulo{
+    color: #AE4AD9;   
+}
+.span {
+    color: #5F6673;
+}
+.card:hover {
+    background: #d4d4d4;
+    transition: .5s;
+}   

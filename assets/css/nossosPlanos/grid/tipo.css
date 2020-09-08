@@ -1,0 +1,16 @@
+.tipo__texto {
+    font-family: monospace;
+    font-size: 15px;
+    text-align: left;
+    
+}
+.tipo__icon {
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin: 0 1rem;
+}
+.fibra {
+    grid-column: 1/1;
+    grid-row: 2/2;
+}

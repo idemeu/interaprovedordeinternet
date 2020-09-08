@@ -1,0 +1,32 @@
+@media (min-width: 1000px) 
+{
+    .parte-1 {
+        height: 100vh;
+        padding: 5% 0;
+    }
+    .parte-2{
+        height: 100vh;
+    }
+    .parte-5{
+        height: 100vh;
+    }
+}
+@media (max-width: 1000px) 
+{
+    main {
+        margin-top: 100px;
+    }
+    .parte-1{
+        height: auto;
+        margin-bottom: 2rem;
+    }
+        
+}
+
+.img-planos {
+    display: block;
+    margin: 3rem auto;
+    width: 600px;
+    height: 600px;
+
+}

@@ -1,0 +1,19 @@
+.fibra__upload__texto {
+    text-align: center;
+    font-family: monospace;
+    font-size: 15px;
+}
+.fibra__upload {
+    grid-column: 2/2;
+    grid-row: 2/2;
+}
+.light__upload__texto { 
+    text-align: center;
+    font-family: monospace;
+    font-size: 15px;
+}
+.ac__upload{
+    text-align: center;
+    font-family: monospace;
+    font-size: 15px;
+}

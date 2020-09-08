@@ -1,0 +1,8 @@
+.quemSomos__grid {
+    display: grid;
+    grid-template-areas: "regiao" "suporte" "tecnologia";
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    grid-template-rows: 300px;
+    width: 100%;
+    height: 300px;
+}

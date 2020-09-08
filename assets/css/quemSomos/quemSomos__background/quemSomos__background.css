@@ -1,0 +1,12 @@
+.quemSomos__background {
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+}
+.quemSomos__conteudo {
+    position: relative;
+    background: rgba(000, 000, 000, .80);
+    height: 100vh;
+    width: 100%;
+    color: #FFF;
+}

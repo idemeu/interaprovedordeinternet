@@ -1,0 +1,38 @@
+.nossosPlanos__grid {
+    display: grid;
+    grid-template-areas:"tipos" "velocidade" "tecnologia";
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    grid-template-rows: 10% 30% 30% 30%;
+    width: 100%;
+    height: auto;
+}
+.tipo {
+    width: 100%;
+    grid-column: 1/1;
+    grid-area: "tipos";
+    grid-row: 1/6;
+    height: 100%;
+}
+.velocidade {
+    width: 100%;
+    grid-column: 2/2;
+    grid-row: 1/5;
+    grid-area: "velocidade";
+    
+}
+.tecnologia {
+    width: 100%;
+    grid-column: 3/3;
+    grid-row: 1/5;
+    grid-area: "tecnologia";
+}
+
+.nossosPlanos__grid div h3 {
+    text-align: center;
+    grid-column: 1/4;
+    grid-row: 1/1;
+
+    font-size: 20px;
+    font-weight: bold;
+    font-family: monospace;
+}
